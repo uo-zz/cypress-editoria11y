@@ -1,0 +1,26 @@
+{
+  "name": "cypress-editoria11y",
+  "version": "1.0.0",
+  "description": "A Cypress plugin to run Editoria11y automatically.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uo-zz/cypress-editoria11y.git"
+  },
+  "keywords": [
+    "cypress",
+    "plugin"
+  ],
+  "author": "John Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uo-zz/cypress-editoria11y/issues"
+  },
+  "homepage": "https://github.com/uo-zz/cypress-editoria11y#readme",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
